@@ -7,8 +7,6 @@ public class Areas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-
-
         triangle(sc);
         rectangle(sc);
         circle(sc);

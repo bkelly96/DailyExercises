@@ -1,20 +1,28 @@
-InchtoCentimeter.java
- InchtoCentimeter
 Areas.java
  Areas
-Main.java
- Main
+com/revature/day2/rectangle/RectangleCalculations.java
+ com.revature.day2.rectangle.RectangleCalculations
 com/revature/day2/FindBigNumber.java
  com.revature.day2.FindBigNumber
-com/revature/day2/SwitchDemo_01.java
- com.revature.day2.SwitchDemo_01
+com/revature/day2/OneToN.java
+ com.revature.day2.OneToN
 com/revature/day2/WhileDemo_01.java
  com.revature.day2.WhileDemo_01
 Operators.java
  Operators
 TemperatureConversion.java
  TemperatureConversion
+com/revature/day2/rectangle/RectangleMain.java
+ com.revature.day2.rectangle.RectangleMain
 Perimeters.java
  Perimeters
-com/revature/day2/OneToN.java
- com.revature.day2.OneToN
+InchtoCentimeter.java
+ InchtoCentimeter
+Main.java
+ Main
+com/revature/day2/OOP/CalcMain.java
+ com.revature.day2.OOP.CalcMain
+com/revature/day2/OOP/Calculator.java
+ com.revature.day2.OOP.Calculator
+com/revature/day2/SwitchDemo_01.java
+ com.revature.day2.SwitchDemo_01
