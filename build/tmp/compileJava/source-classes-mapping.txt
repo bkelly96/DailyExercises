@@ -26,3 +26,25 @@ com/revature/day2/OOP/Calculator.java
  com.revature.day2.OOP.Calculator
 com/revature/day2/SwitchDemo_01.java
  com.revature.day2.SwitchDemo_01
+com/revature/day3/Employee.java
+ com.revature.day3.Employee
+com/revature/day3/Manager.java
+ com.revature.day3.Manager
+com/revature/day3/Supervisor.java
+ com.revature.day3.Supervisor
+com/revature/day3/Worker.java
+ com.revature.day3.Worker
+com/revature/day3/Calculus/B.java
+ com.revature.day3.Calculus.B
+com/revature/day3/Calculus/A.java
+ com.revature.day3.Calculus.A
+com/revature/day3/workMain.java
+ com.revature.day3.workMain
+com/revature/day3/Calculus/Triangle.java
+ com.revature.day3.Calculus.Triangle
+com/revature/day3/Calculus/Rectangle.java
+ com.revature.day3.Calculus.Rectangle
+com/revature/day3/Calculus/Main.java
+ com.revature.day3.Calculus.Main
+com/revature/day3/Calculus/Polygon.java
+ com.revature.day3.Calculus.Polygon

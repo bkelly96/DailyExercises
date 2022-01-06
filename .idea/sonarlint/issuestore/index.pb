@@ -13,3 +13,19 @@ S
 #src/main/java/InchtoCentimeter.java,2\5\250b89c01e31e72f1f1e5a7564c5b3814283b78d
 M
 src/main/java/Perimeters.java,9\1\91838c5c58458d524fe4762ac870d56eb829e0c1
+a
+1src/main/java/com/revature/day2/WhileDemo_01.java,1\4\1479c03ddd8badc47341f6e52e127ae893ce5035
+b
+2src/main/java/com/revature/day2/FindBigNumber.java,b\6\b64f32a72036d1e30bd64319e7afad710d5c1cc7
+b
+2src/main/java/com/revature/day2/SwitchDemo_01.java,f\9\f9f58131db0967d2fbc978238e12c22fe131830f
+[
++src/main/java/com/revature/day2/OneToN.java,9\a\9a43b333bc0364947e9dfde952ec3b1d4d3bd8c2
+c
+3src/main/java/com/revature/day2/OOP/Calculator.java,a\9\a920b67d1d3056c48bfc77849e15cb5fbdd19246
+t
+Dsrc/main/java/com/revature/day2/rectangle/RectangleCalculations.java,2\a\2a409f08799f57f55473644812e9dd6531439a5e
+l
+<src/main/java/com/revature/day2/rectangle/RectangleMain.java,a\7\a7f5c91d90e8096af6e43adb185495a19b6724a7
+a
+1src/main/java/com/revature/day2/OOP/CalcMain.java,8\0\80af9727a8f185c9ee7c97b3a64a51ed8ac42012
