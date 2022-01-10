@@ -1,0 +1,12 @@
+
+7
+java:S2129"!Remove this "Integer" constructor(·Õÿ
+7
+java:S2129"!Remove this "Integer" constructor(ŸÂø§
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ê´Éµ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ä½´úÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(º²·şÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆòåáùÿÿÿÿ

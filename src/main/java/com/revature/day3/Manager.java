@@ -1,5 +1,6 @@
 package com.revature.day3;
 
+
 public class Manager extends Employee{
 
     String qual;
