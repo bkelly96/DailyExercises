@@ -1,6 +1,8 @@
 package com.revature.day3;
 
 
+import jdk.jfr.DataAmount;
+
 /*
 Employee is super class setters and getters
 Worker subclass, no member
@@ -9,6 +11,7 @@ Manager Qualifications
 
 Manager
  */
+
 public class Employee {
 
     int id;

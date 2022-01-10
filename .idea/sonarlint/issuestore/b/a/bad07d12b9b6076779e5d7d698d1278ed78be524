@@ -1,15 +1,15 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ä´©ğ8¥©•µâ/
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(éîàÇúÿÿÿÿ8¥©•µâ/
-X
-java:S1854'"6Remove this useless assignment to local variable "PI".(ğÆ§ùÿÿÿÿ8°“£µâ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éÿˆ¡øÿÿÿÿ8¥©•µâ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÄÃ°ûÿÿÿÿ8¥©•µâ/
 I
 java:S1481'"'Remove this unused "PI" local variable.(ğÆ§ùÿÿÿÿ8°“£µâ/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(²¶¤Š8¥©•µâ/
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(°”´äúÿÿÿÿ8¥©•µâ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éÿˆ¡øÿÿÿÿ8¥©•µâ/
 9
 java:S1116"Remove this empty statement.(£’£‰8åŸœµâ/
-Z	java:S106-"9Replace this use of System.out or System.err by a logger.(†Œ÷úÿÿÿÿ8¥©•µâ/
 U	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ñ•8¥©•µâ/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(éîàÇúÿÿÿÿ8¥©•µâ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä´©ğ8¥©•µâ/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(†Œ÷úÿÿÿÿ8¥©•µâ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(°”´äúÿÿÿÿ8¥©•µâ/
+X
+java:S1854'"6Remove this useless assignment to local variable "PI".(ğÆ§ùÿÿÿÿ8°“£µâ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¶¤Š8¥©•µâ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÄÃ°ûÿÿÿÿ8¥©•µâ/

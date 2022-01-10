@@ -1,50 +1,98 @@
+com/revature/day5/ArrayListDemo_02.java
+ com.revature.day5.ArrayListDemo_02
+com/revature/day5/beans/Employee.java
+ com.revature.day5.beans.Employee
 Areas.java
  Areas
-com/revature/day2/rectangle/RectangleCalculations.java
- com.revature.day2.rectangle.RectangleCalculations
-com/revature/day2/FindBigNumber.java
- com.revature.day2.FindBigNumber
-com/revature/day2/OneToN.java
- com.revature.day2.OneToN
-com/revature/day2/WhileDemo_01.java
- com.revature.day2.WhileDemo_01
-Operators.java
- Operators
+com/revature/day5/HashSetDemo_01.java
+ com.revature.day5.HashSetDemo_01
 TemperatureConversion.java
  TemperatureConversion
-com/revature/day2/rectangle/RectangleMain.java
- com.revature.day2.rectangle.RectangleMain
 Perimeters.java
  Perimeters
-InchtoCentimeter.java
- InchtoCentimeter
-Main.java
- Main
+com/revature/day4/family/Relationship.java
+ com.revature.day4.family.Relationship
 com/revature/day2/OOP/CalcMain.java
  com.revature.day2.OOP.CalcMain
+com/revature/day4/beans/DataAccess.java
+ com.revature.day4.beans.DataAccess
+com/revature/day3/Calculus/B.java
+ com.revature.day3.Calculus.B
+com/revature/day3/Calculus/Triangle.java
+ com.revature.day3.Calculus.Triangle
+com/revature/day4/beans/DataBaseDataAccess.java
+ com.revature.day4.beans.DataBaseDataAccess
+com/revature/day3/Supervisor.java
+ com.revature.day3.Supervisor
+Operators.java
+ Operators
+com/revature/day4/arrayexamples/Array2Dim.java
+ com.revature.day4.arrayexamples.Array2Dim
+com/revature/day2/rectangle/RectangleMain.java
+ com.revature.day2.rectangle.RectangleMain
+com/revature/day3/Worker.java
+ com.revature.day3.Worker
+InchtoCentimeter.java
+ InchtoCentimeter
+com/revature/day4/family/FamilyMain.java
+ com.revature.day4.family.FamilyMain
+com/revature/day4/family/FileDataAccess.java
+ com.revature.day4.family.FileDataAccess
+com/revature/day4/beans/Employee_Beans.java
+ com.revature.day4.beans.Employee_Beans
+com/revature/day4/arrayexamples/ArrayMain.java
+ com.revature.day4.arrayexamples.ArrayMain
+com/revature/day3/Calculus/Main.java
+ com.revature.day3.Calculus.Main
 com/revature/day2/OOP/Calculator.java
  com.revature.day2.OOP.Calculator
 com/revature/day2/SwitchDemo_01.java
  com.revature.day2.SwitchDemo_01
-com/revature/day3/Employee.java
- com.revature.day3.Employee
-com/revature/day3/Manager.java
- com.revature.day3.Manager
-com/revature/day3/Supervisor.java
- com.revature.day3.Supervisor
-com/revature/day3/Worker.java
- com.revature.day3.Worker
-com/revature/day3/Calculus/B.java
- com.revature.day3.Calculus.B
-com/revature/day3/Calculus/A.java
- com.revature.day3.Calculus.A
-com/revature/day3/workMain.java
- com.revature.day3.workMain
-com/revature/day3/Calculus/Triangle.java
- com.revature.day3.Calculus.Triangle
-com/revature/day3/Calculus/Rectangle.java
- com.revature.day3.Calculus.Rectangle
-com/revature/day3/Calculus/Main.java
- com.revature.day3.Calculus.Main
+com/revature/day5/TreeSetDemo_01.java
+ com.revature.day5.TreeSetDemo_01
+com/revature/day2/FindBigNumber.java
+ com.revature.day2.FindBigNumber
+com/revature/day2/WhileDemo_01.java
+ com.revature.day2.WhileDemo_01
 com/revature/day3/Calculus/Polygon.java
  com.revature.day3.Calculus.Polygon
+com/revature/day4/family/Family.java
+ com.revature.day4.family.Family
+com/revature/day3/Employee.java
+ com.revature.day3.Employee
+Main.java
+ Main
+com/revature/day3/Calculus/A.java
+ com.revature.day3.Calculus.A
+com/revature/day3/Manager.java
+ com.revature.day3.Manager
+com/revature/day3/Calculus/Rectangle.java
+ com.revature.day3.Calculus.Rectangle
+com/revature/day2/rectangle/RectangleCalculations.java
+ com.revature.day2.rectangle.RectangleCalculations
+com/revature/day2/OneToN.java
+ com.revature.day2.OneToN
+com/revature/day4/arrayexamples/HandsOn.java
+ com.revature.day4.arrayexamples.HandsOn
+com/revature/day5/beans/EmployeeFirstNameComparator.java
+ com.revature.day5.beans.EmployeeFirstNameComparator
+com/revature/day4/arrayexamples/Array1Dim.java
+ com.revature.day4.arrayexamples.Array1Dim
+com/revature/day5/ArrayListDemo_01.java
+ com.revature.day5.ArrayListDemo_01
+com/revature/day4/beans/FileDataAccess.java
+ com.revature.day4.beans.FileDataAccess
+com/revature/day4/beans/Day4Main.java
+ com.revature.day4.beans.Day4Main
+com/revature/day5/LinkedList_91.java
+ com.revature.day5.LinkedList_91
+com/revature/day5/TreeSetDemo_03.java
+ com.revature.day5.TreeSetDemo_03
+com/revature/day5/ALMain.java
+ com.revature.day5.ALMain
+com/revature/day4/family/DataBaseDataAccess.java
+ com.revature.day4.family.DataBaseDataAccess
+com/revature/day3/workMain.java
+ com.revature.day3.workMain
+com/revature/day4/arrayexamples/HandsOn2Dim.java
+ com.revature.day4.arrayexamples.HandsOn2Dim
