@@ -1,10 +1,8 @@
-package com.revature.day5.beans;
+package com.revature.day3.day5.beans;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import java.io.Serializable;
 
-public class Employee implements Comparable<Employee>{
+public class Employee implements Comparable<Employee>, Serializable {
 
     int id;
     String firstName;
@@ -71,6 +69,42 @@ public class Employee implements Comparable<Employee>{
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = email;
+    }
+
+    public int hashCode(){
+
+        int hash = 13;
+        hash = (hash * 7) + id;
+        hash = ( hash * 7) + ((firstName == null)?0:firstName.hashCode());
+        hash = ( hash * 7) + ((lastName == null)?0:lastName.hashCode());
+        hash = ( hash * 7) + ((email == null)?0:email.hashCode());
+
+        return hash;
+    }
+
+    public boolean equals(Object object) {
+        if (object == null) {
+            return false;
+        }
+
+        if (this.getClass() != object.getClass()) {
+            return false;
+        }
+
+        if(object instanceof Employee && this == object){
+            return true;
+        }
+
+        if (this == object) {
+            return true;
+        }
+        Employee employee = (Employee) object;
+        return this.id == employee.getId()
+                && this.firstName.equals(employee.getFirstName())
+                && this.lastName.equals(employee.getLastName())
+                && this.email.equals((employee.getEmail()));
+
+
     }
 
     @Override

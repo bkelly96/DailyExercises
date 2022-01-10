@@ -1,11 +1,9 @@
-package com.revature.day5;
+package com.revature.day3.day5;
 
-import com.revature.day5.beans.Employee;
+import com.revature.day3.day5.beans.Employee;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-
-import static com.revature.day5.beans.Employee.parseEmployee;
 
 public class ArrayListDemo_02 {
     public static void main(String[] args) {
@@ -17,7 +15,7 @@ public class ArrayListDemo_02 {
         employees.add(new Employee(3, "Scott", "Bugatti", "Scott@google.com"));
         employees.add(new Employee(4, "Bojack", "Horseman", "Bojack@google.com"));
         employees.add(new Employee(5, "Blake", "Anderson", "Blake@gmail.com"));
-        employees.add(parseEmployee("106, John, Carl, John@gmaik.com"));
+        employees.add(Employee.parseEmployee("106, John, Carl, John@gmaik.com"));
         employees.add(new Employee(3, "Scott", "Bugatti", "Scott@google.com"));
 
 

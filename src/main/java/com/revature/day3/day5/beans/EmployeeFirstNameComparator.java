@@ -1,4 +1,4 @@
-package com.revature.day5.beans;
+package com.revature.day3.day5.beans;
 
 import java.util.Comparator;
 
@@ -7,4 +7,5 @@ public class EmployeeFirstNameComparator implements Comparator<Employee> {
     public int compare(Employee emp1, Employee emp2) {
         return emp1.firstName.compareTo(emp2.firstName);
     }
+
 }
