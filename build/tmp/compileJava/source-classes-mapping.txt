@@ -1,7 +1,7 @@
-com/revature/day3/workMain.java
- com.revature.day3.workMain
-com/revature/day5/ALMain.java
- com.revature.day5.ALMain
+com/revature/day5/ArrayListDemo_02.java
+ com.revature.day5.ArrayListDemo_02
+com/revature/day5/beans/Employee.java
+ com.revature.day5.beans.Employee
 Areas.java
  Areas
 com/revature/day5/HashSetDemo_01.java
@@ -16,10 +16,14 @@ com/revature/day2/OOP/CalcMain.java
  com.revature.day2.OOP.CalcMain
 com/revature/day4/beans/DataAccess.java
  com.revature.day4.beans.DataAccess
+com/revature/day5/FileRead_01.java
+ com.revature.day5.FileRead_01
 com/revature/day3/Calculus/B.java
  com.revature.day3.Calculus.B
 com/revature/day3/Calculus/Triangle.java
  com.revature.day3.Calculus.Triangle
+com/revature/day5/FileWrite_01.java
+ com.revature.day5.FileWrite_01
 com/revature/day4/beans/DataBaseDataAccess.java
  com.revature.day4.beans.DataBaseDataAccess
 com/revature/day3/Supervisor.java
@@ -44,8 +48,8 @@ com/revature/day4/arrayexamples/ArrayMain.java
  com.revature.day4.arrayexamples.ArrayMain
 com/revature/day3/Calculus/Main.java
  com.revature.day3.Calculus.Main
-com/revature/day2/OOP/Calculator.java
- com.revature.day2.OOP.Calculator
+com/revature/day4/arrayexamples/HandsOn2Dim.java
+ com.revature.day4.arrayexamples.HandsOn2Dim
 com/revature/day2/SwitchDemo_01.java
  com.revature.day2.SwitchDemo_01
 com/revature/day5/TreeSetDemo_01.java
@@ -62,20 +66,24 @@ com/revature/day3/Employee.java
  com.revature.day3.Employee
 Main.java
  Main
+com/revature/day5/FileReader_02.java
+ com.revature.day5.FileReader_02
 com/revature/day3/Calculus/A.java
  com.revature.day3.Calculus.A
 com/revature/day3/Manager.java
  com.revature.day3.Manager
 com/revature/day3/Calculus/Rectangle.java
  com.revature.day3.Calculus.Rectangle
+com/revature/day5/HashSetDemo_02.java
+ com.revature.day5.HashSetDemo_02
 com/revature/day2/rectangle/RectangleCalculations.java
  com.revature.day2.rectangle.RectangleCalculations
 com/revature/day2/OneToN.java
  com.revature.day2.OneToN
 com/revature/day4/arrayexamples/HandsOn.java
  com.revature.day4.arrayexamples.HandsOn
-com/revature/day4/family/DataBaseDataAccess.java
- com.revature.day4.family.DataBaseDataAccess
+com/revature/day5/beans/EmployeeFirstNameComparator.java
+ com.revature.day5.beans.EmployeeFirstNameComparator
 com/revature/day4/arrayexamples/Array1Dim.java
  com.revature.day4.arrayexamples.Array1Dim
 com/revature/day5/ArrayListDemo_01.java
@@ -86,25 +94,17 @@ com/revature/day4/beans/Day4Main.java
  com.revature.day4.beans.Day4Main
 com/revature/day5/LinkedList_91.java
  com.revature.day5.LinkedList_91
-com/revature/day4/arrayexamples/HandsOn2Dim.java
- com.revature.day4.arrayexamples.HandsOn2Dim
-com/revature/day5/FileRead_01.java
- com.revature.day5.FileRead_01
-com/revature/day5/FileWrite_01.java
- com.revature.day5.FileWrite_01
-com/revature/day5/ArrayListDemo_02.java
- com.revature.day5.ArrayListDemo_02
-com/revature/day5/beans/Employee.java
- com.revature.day5.beans.Employee
 com/revature/day5/TreeSetDemo_03.java
  com.revature.day5.TreeSetDemo_03
 com/revature/day5/beans/EmployeeLastNameComparator.java
  com.revature.day5.beans.EmployeeLastNameComparator
-com/revature/day5/HashSetDemo_02.java
- com.revature.day5.HashSetDemo_02
+com/revature/day5/ALMain.java
+ com.revature.day5.ALMain
+com/revature/day4/family/DataBaseDataAccess.java
+ com.revature.day4.family.DataBaseDataAccess
 com/revature/day5/FileWrite_02.java
  com.revature.day5.FileWrite_02
-com/revature/day5/beans/EmployeeFirstNameComparator.java
- com.revature.day5.beans.EmployeeFirstNameComparator
-com/revature/day5/FileReader_02.java
- com.revature.day5.FileReader_02
+com/revature/day3/workMain.java
+ com.revature.day3.workMain
+com/revature/day2/OOP/Calculator.java
+ com.revature.day2.OOP.Calculator
