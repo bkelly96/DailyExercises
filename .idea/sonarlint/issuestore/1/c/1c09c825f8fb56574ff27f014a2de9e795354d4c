@@ -1,0 +1,14 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "emp102".(Í¯¾Ú
+V	java:S125"<This block of commented-out lines of code should be removed.(ŒÅ™Åûÿÿÿÿ
+A
+java:S1481"+Remove this unused "emp102" local variable.(Í¯¾Ú
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(¼¡¨ò
+l
+java:S1192"QDefine a constant instead of duplicating this literal "Scott@google.com" 3 times.(¶Óíßøÿÿÿÿ
+c
+java:S1192"HDefine a constant instead of duplicating this literal "Bugatti" 3 times.(¶Óíßøÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Scott" 3 times.(¶Óíßøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘È’Ùýÿÿÿÿ

@@ -30,6 +30,10 @@ com/revature/day3/Supervisor.java
  com.revature.day3.Supervisor
 Operators.java
  Operators
+com/revature/ExceptionHandling_01.java
+ com.revature.ExceptionHandling_01
+com/revature/day2/OOP/Calculator.java
+ com.revature.day2.OOP.Calculator
 com/revature/day4/arrayexamples/Array2Dim.java
  com.revature.day4.arrayexamples.Array2Dim
 com/revature/day2/rectangle/RectangleMain.java
@@ -40,6 +44,8 @@ InchtoCentimeter.java
  InchtoCentimeter
 com/revature/day4/family/FamilyMain.java
  com.revature.day4.family.FamilyMain
+com/revature/day6/beans/Student.java
+ com.revature.day6.beans.Student
 com/revature/day4/family/FileDataAccess.java
  com.revature.day4.family.FileDataAccess
 com/revature/day4/beans/Employee_Beans.java
@@ -58,6 +64,8 @@ com/revature/day2/FindBigNumber.java
  com.revature.day2.FindBigNumber
 com/revature/day2/WhileDemo_01.java
  com.revature.day2.WhileDemo_01
+com/revature/Uncaught_01.java
+ com.revature.Uncaught_01
 com/revature/day3/Calculus/Polygon.java
  com.revature.day3.Calculus.Polygon
 com/revature/day4/family/Family.java
@@ -70,6 +78,8 @@ com/revature/day5/FileReader_02.java
  com.revature.day5.FileReader_02
 com/revature/day3/Calculus/A.java
  com.revature.day3.Calculus.A
+com/revature/Uncaught_02.java
+ com.revature.Uncaught_02
 com/revature/day3/Manager.java
  com.revature.day3.Manager
 com/revature/day3/Calculus/Rectangle.java
@@ -88,6 +98,8 @@ com/revature/day4/arrayexamples/Array1Dim.java
  com.revature.day4.arrayexamples.Array1Dim
 com/revature/day5/ArrayListDemo_01.java
  com.revature.day5.ArrayListDemo_01
+com/revature/day3/workMain.java
+ com.revature.day3.workMain
 com/revature/day4/beans/FileDataAccess.java
  com.revature.day4.beans.FileDataAccess
 com/revature/day4/beans/Day4Main.java
@@ -104,7 +116,17 @@ com/revature/day4/family/DataBaseDataAccess.java
  com.revature.day4.family.DataBaseDataAccess
 com/revature/day5/FileWrite_02.java
  com.revature.day5.FileWrite_02
-com/revature/day3/workMain.java
- com.revature.day3.workMain
-com/revature/day2/OOP/Calculator.java
- com.revature.day2.OOP.Calculator
+com/revature/day6/ProcessStudent.java
+ com.revature.day6.ProcessStudent
+com/revature/day6/beans/ProcessedStudent.java
+ com.revature.day6.beans.ProcessedStudent
+com/revature/day6/StudentMain.java
+ com.revature.day6.StudentMain
+com/revature/ExceptionHandling_02.java
+ com.revature.ExceptionHandling_02
+com/revature/day6/ExceptionHanding_03.java
+ com.revature.day6.ExceptionHanding_03
+com/revature/day6/exception/InsufficientFundException.java
+ com.revature.day6.exception.InsufficientFundException
+com/revature/day6/EComm.java
+ com.revature.day6.EComm

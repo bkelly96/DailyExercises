@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô–üÿÿÿÿ8ˆ—‚®ä/
+Z
+java:S2147"DCombine this catch with the one at line 17, which has the same body.(ï­£Ä
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¸’Ëüÿÿÿÿ8ˆÊ‚®ä/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª°å¸
+d
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(óŒ³ª

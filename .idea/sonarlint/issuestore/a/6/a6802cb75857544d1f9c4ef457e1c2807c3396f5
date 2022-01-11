@@ -1,8 +1,0 @@
-
-P
-java:S1854":Remove this useless assignment to local variable "emp102".(Í¯¾Ú
-H
-java:S1481"+Remove this unused "emp102" local variable.(Í¯¾Ú8ˆðÂ¨ä/
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÀ×Ô
-]	java:S125"<This block of commented-out lines of code should be removed.(‘­…„þÿÿÿÿ8À¢Â¨ä/
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«’Ïù

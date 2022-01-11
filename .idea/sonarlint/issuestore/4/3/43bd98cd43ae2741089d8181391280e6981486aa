@@ -1,11 +1,0 @@
-
-7
-java:S2129"!Remove this "Integer" constructor(·Õÿ
-<
-java:S2129"!Remove this "Integer" constructor(º×ö§ÿÿÿÿÿ
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ê´Éµ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(–“Ÿ•
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ÿ¿”Û
-N	java:S106("9Replace this use of System.out or System.err by a logger.(™€Ÿ“
-Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8Áò¾¥ä/
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö×«½øÿÿÿÿ
