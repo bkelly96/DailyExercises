@@ -1,0 +1,13 @@
+
+_
+java:S2147"DCombine this catch with the one at line 14, which has the same body.(©œ¡ÿÿÿÿÿ
+Z
+java:S2147"DCombine this catch with the one at line 14, which has the same body.(ıàÑÎ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8ÁÚ®ä/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§ü©¥üÿÿÿÿ8õÖû®ä/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£÷ÃØ
+e
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢ß
+c
+java:S2095
+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Î¤¤“

@@ -1,0 +1,9 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(€Ã¥
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…î°B
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡×Ğÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‘™ÿ!
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´û½¢şÿÿÿÿ
+‹
+java:S1488"pImmediately throw this expression instead of assigning it to the temporary variable "insufficientFundException".(‰øğûÿÿÿÿ

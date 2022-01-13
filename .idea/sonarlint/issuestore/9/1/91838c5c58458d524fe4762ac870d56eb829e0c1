@@ -1,16 +1,0 @@
-
-Y
-java:S1854'"7Remove this useless assignment to local variable "rad".(ßšÀöıÿÿÿÿ8‚„û´â/
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ø¹øÿÿÿÿ8İó´â/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Î·¶Í8ç»ò´â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éÓ’¿úÿÿÿÿ8ç»ò´â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(óãÂûÿÿÿÿ8İó´â/
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(Î·¶Í8İó´â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ—§×ÿÿÿÿÿ8İó´â/
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(‰–âÙ8İó´â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ—§×ÿÿÿÿÿ8ç»ò´â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(óãÂûÿÿÿÿ8ç»ò´â/
-U	java:S106""9Replace this use of System.out or System.err by a logger.(à¤Œÿ8›Îô´â/
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(­‚£ì8İó´â/
-J
-java:S1481'"(Remove this unused "rad" local variable.(ßšÀöıÿÿÿÿ8‚„û´â/
